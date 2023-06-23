@@ -52,7 +52,7 @@ public class Estimativa {
 				JOptionPane.showMessageDialog(null, "Na "+consultas.get(i).getDia()+" tem "+horariosRestantes+" horarios restantes");
 
 			}
-			
+
 		}
 
 
